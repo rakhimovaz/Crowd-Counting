@@ -53,6 +53,3 @@ I used the **ShanghaiTech Part B** dataset from Kaggle.
 - Extend to real-time video
 - Build a simple web interface
 
-## Author
-
-Rahimova Zuhra — ID: 230104
